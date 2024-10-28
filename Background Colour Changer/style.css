@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    color:salmon;
+}
+main{
+    height: 100vh;
+    width:100%;
+}
+h1{
+    text-align:center;
+}
+.main{
+    height:80vh;
+    width:100%;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+    gap:10px;
+    border:4px solid salmon;
+}
+
+.grey{
+    height:100px;
+    width:100px;
+    background-color:grey;
+    
+}
+.red{
+    height:100px;
+    width:100px;
+    background-color:red;
+    
+}
+.yellow{
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    
+}
+.blue{
+    height:100px;
+    width:100px;
+    background-color:blue;
+    
+}
+.pink{
+    height:100px;
+    width:100px;
+    background-color:pink;
+    
+}
+.powderblue{
+    height:100px;
+    width:100px;
+    background-color:powderblue;
+    
+}
+.black{
+    height:100px;
+    width:100px;
+    background-color:black;
+    
+}
+.green{
+    height:100px;
+    width:100px;
+    background-color:green;
+    
+}
+.violet{
+    height:100px;
+    width:100px;
+    background-color:violet;
+    
+}
+.orange{
+    height:100px;
+    width:100px;
+    background-color:orange;
+    
+}
